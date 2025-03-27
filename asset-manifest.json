@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AIchat/static/css/main.eeb55a7d.css",
-    "main.js": "/AIchat/static/js/main.80b83cb7.js",
-    "static/js/453.ad6eb26e.chunk.js": "/AIchat/static/js/453.ad6eb26e.chunk.js",
-    "static/media/remixicon.svg?t=1734404658139": "/AIchat/static/media/remixicon.df9902a6df13645438e1.svg",
-    "static/media/avatar.png": "/AIchat/static/media/avatar.417062c62f2da5f09395.png",
-    "static/media/remixicon.eot?t=1734404658139": "/AIchat/static/media/remixicon.29066d810a74e994be27.eot",
-    "static/media/remixicon.ttf?t=1734404658139": "/AIchat/static/media/remixicon.868d1a768f4762dbcc3e.ttf",
-    "static/media/remixicon.woff?t=1734404658139": "/AIchat/static/media/remixicon.ce82bb240fef24f93f95.woff",
-    "static/media/remixicon.woff2?t=1734404658139": "/AIchat/static/media/remixicon.bb211d855a1864aa5b67.woff2",
-    "static/media/logo.png": "/AIchat/static/media/logo.ad7e7868a8e0f4f89863.png",
-    "index.html": "/AIchat/index.html",
-    "main.eeb55a7d.css.map": "/AIchat/static/css/main.eeb55a7d.css.map",
-    "main.80b83cb7.js.map": "/AIchat/static/js/main.80b83cb7.js.map",
-    "453.ad6eb26e.chunk.js.map": "/AIchat/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "./static/css/main.3c5fc54a.css",
+    "main.js": "./static/js/main.ab94fead.js",
+    "static/js/453.ad6eb26e.chunk.js": "./static/js/453.ad6eb26e.chunk.js",
+    "static/media/remixicon.svg?t=1734404658139": "./static/media/remixicon.df9902a6df13645438e1.svg",
+    "static/media/avatar.png": "./static/media/avatar.417062c62f2da5f09395.png",
+    "static/media/remixicon.eot?t=1734404658139": "./static/media/remixicon.29066d810a74e994be27.eot",
+    "static/media/remixicon.ttf?t=1734404658139": "./static/media/remixicon.868d1a768f4762dbcc3e.ttf",
+    "static/media/remixicon.woff?t=1734404658139": "./static/media/remixicon.ce82bb240fef24f93f95.woff",
+    "static/media/remixicon.woff2?t=1734404658139": "./static/media/remixicon.bb211d855a1864aa5b67.woff2",
+    "static/media/logo.png": "./static/media/logo.ad7e7868a8e0f4f89863.png",
+    "index.html": "./index.html",
+    "main.3c5fc54a.css.map": "./static/css/main.3c5fc54a.css.map",
+    "main.ab94fead.js.map": "./static/js/main.ab94fead.js.map",
+    "453.ad6eb26e.chunk.js.map": "./static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eeb55a7d.css",
-    "static/js/main.80b83cb7.js"
+    "static/css/main.3c5fc54a.css",
+    "static/js/main.ab94fead.js"
   ]
 }
